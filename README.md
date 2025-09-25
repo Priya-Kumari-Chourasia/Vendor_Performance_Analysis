@@ -1,4 +1,4 @@
-# Vendor-Performance-Analysis-python-powerbi
+# Vendor-Performance-Analysis-Python-Powerbi
 
 This report outlines the Vendor Performance Analysis project, detailing the automated integration of multiple SQL data sources, the execution of exploratory data analysis and vendor classification in Python, and the creation of interactive dashboards in Power BI to support procurement and vendor management decisions
 
