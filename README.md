@@ -1,4 +1,4 @@
-# Vendor-Performance-Analysis-Python-Powerbi
+# Vendor-Performance-Analysis
 
 This report outlines the Vendor Performance Analysis project, detailing the automated integration of multiple SQL data sources, the execution of exploratory data analysis and vendor classification in Python, and the creation of interactive dashboards in Power BI to support procurement and vendor management decisions
 
@@ -42,6 +42,6 @@ It answers following business questions:
 
   ### 4. 📉 Power BI Dashboard
 
-![image](https://github.com/user-attachments/assets/07a32b68-783a-4a5a-abd8-19811b13974a)
+![image](https://github.com/Anindita1709/Vendor_Performance_Analysis/blob/main/BI%20Dashboard_page-0001.jpg)
 
-![image](https://github.com/user-attachments/assets/ed666aa2-e286-442e-93f3-b567e1f03bf8)
+![image](https://github.com/Anindita1709/Vendor_Performance_Analysis/blob/main/BI%20Dashboard_page-0002.jpg)
